@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a current freshman at the University of Maryland, College Park, studying Computer Science
+
+I like web dev and cybersec, and enjoy doing CTFs and hackathons with friends
+
 <!--
 **notjasonl/notjasonl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
