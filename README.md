@@ -2,6 +2,8 @@
 
 I'm a current freshman at the University of Maryland, College Park, studying Computer Science
 
+Currently working w/ the wonderful people at over at [blitz](https://blitz.gg) as a software engineering intern
+
 I like web dev and cybersec, and enjoy doing CTFs and hackathons with friends
 
 <!--
