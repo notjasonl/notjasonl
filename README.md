@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a current freshman at the University of Maryland, College Park, studying Computer Science
+I'm a current sophomore at the University of Maryland, College Park, studying Computer Science
 
 Currently working w/ the wonderful people at over at [blitz.gg](https://blitz.gg) as a software engineering intern
 
