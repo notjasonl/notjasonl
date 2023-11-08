@@ -2,6 +2,8 @@
 
 I'm a current junior at the University of Maryland, College Park, studying Computer Science
 
+Interning at Dropbox summer 2024 as a software engineering intern
+
 Formerly @ [blitz.gg](https://blitz.gg) as a software engineering intern
 
 I like web dev and cybersec, and enjoy doing CTFs and hackathons with friends
