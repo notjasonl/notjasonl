@@ -1,10 +1,9 @@
-### Hi there 👋
+### hi there 👋
 
-I'm a current junior at the University of Maryland, College Park, studying Computer Science
+umd cs grad
 
-Formerly @ [blitz.gg](https://blitz.gg) as a software engineering intern
+formerly @ dropbox & [blitz.gg](https://blitz.gg) interning
 
-I like web dev and cybersec, and enjoy doing CTFs and hackathons with friends
 
 <!--
 **notjasonl/notjasonl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
