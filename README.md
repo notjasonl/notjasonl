@@ -2,7 +2,9 @@
 
 umd cs grad
 
-formerly @ dropbox & [blitz.gg](https://blitz.gg) interning
+engineering @ arch
+
+formerly swe intern @ dropbox & [blitz.gg](https://blitz.gg)
 
 
 <!--
